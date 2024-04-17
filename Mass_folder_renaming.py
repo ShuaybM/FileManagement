@@ -28,6 +28,6 @@ def rename_folders(path):
         else:
             print(f"'{folder}' is not a directory")  # Print a message if the item is not a directory
 
-# Example usage
-folder_path = 'C:\\Users\\21343969\\OneDrive - MMU\\Downloads\\test2'  # Specify the directory path
+
+folder_path = 'F:\\Scripting\\assets\\Assets'  # Specify the directory path
 rename_folders(folder_path)  # Call the function to rename folders within the directory
