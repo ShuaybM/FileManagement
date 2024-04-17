@@ -7,4 +7,4 @@ I ended up with loads of assets, but their folders were named as random strings.
 
 
 ### DISCLAIMER
-These work for my use, don't use them unless you know what you're doing or have a backup, just in case something goes wrong
+These work for my use, don't use them unless you know what you're doing or have a backup, just in case something goes wrong. This is changing file names.
